@@ -1,384 +1,388 @@
-<!-- ========================================================= -->
-<!--                  PRAVEEN KUMAR PROFILE                    -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
 
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Aspiring+Embedded+Systems+Engineer+%F0%9F%92%BB;ECE+Student+%7C+C+%7C+Microcontrollers;Learning+%7C+Building+%7C+Debugging+%F0%9F%9A%80;Building+my+Embedded+Journey+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
-</p>
+<!--                 PRAVEEN KUMAR                         -->
 
-<!-- Header Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
-</p>
+<!--          EMBEDDED SYSTEMS ENGINEER                    -->
 
-<!-- Introduction -->
-<h1 align="center">
-  🎯 Aspiring Embedded Systems Engineer
-</h1>
+<!-- ===================================================== -->
 
 <p align="center">
-  🚀 ECE Student &nbsp;•&nbsp; 💻 C &nbsp;•&nbsp; 🔧 Embedded Systems &nbsp;•&nbsp; 🌏 Japan
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Tech Animation">
 </p>
+
+<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
+
+<h3 align="center">🎯 Aspiring Embedded Systems Engineer</h3>
 
 <p align="center">
-  <i>Learning today. Building tomorrow.</i>
+  ECE Student • C Programmer • Embedded Systems Learner • Future Embedded Engineer 🇯🇵
 </p>
 
----
+👨‍💻 About Me
 
-# 👨‍💻 About Me
+I'm Praveen Kumar, an ECE student passionate about understanding how software interacts with hardware.
 
-Hi! I'm **Praveen Kumar**, an ECE student working toward becoming a
-**professional Embedded Systems Engineer**.
+My current focus is building a strong foundation in C programming, followed by Embedded C, electronics, microcontrollers, ARM Cortex-M and STM32.
 
-I'm currently building my fundamentals step-by-step, starting from
-**C programming** and moving toward microcontrollers, ARM architecture,
-RTOS and real-world embedded systems.
+I don't want to simply learn how to write code.
 
-My long-term goal is to build a career as an **Embedded Engineer in Japan 🇯🇵**.
+I want to understand:
 
-```text
-ECE Student
-     │
-     ▼
- C Programming
-     │
-     ▼
-  Embedded C
-     │
-     ▼
- Basic Electronics
-     │
-     ▼
- Microcontrollers
-     │
-     ▼
- ARM Cortex-M
-     │
-     ▼
- STM32
-     │
-     ▼
- Embedded Projects
-     │
-     ▼
-    RTOS
-     │
-     ▼
- Professional Embedded Engineer
-     │
-     ▼
-       🇯🇵 Japan
-🧠 Current Skills
+Code → Hardware → Communication → Timing → Debugging → Real Embedded Systems
+
+My long-term goal is to become a professional Embedded Systems Engineer and eventually build my career in Japan 🇯🇵.
+
+⚡ What I'm Working On
+
+💻 Learning C Programming
+
+🔧 Exploring Embedded C
+
+⚡ Strengthening Basic Electronics
+
+🔌 Learning Microcontrollers
+
+🧩 Exploring Arduino
+
+📡 Working with ESP8266
+
+🛠️ Learning Git & GitHub
+
+🚀 Building my Embedded Engineering portfolio
+
+🇯🇵 Preparing for a future career in Japan
+
+🛠️ Skills & Technologies
+
 💻 Programming
 
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;Aspiring+Embedded+Systems+Engineer+%F0%9F%92%BB;ECE+Student+%7C+C+%7C+Microcontrollers;Learning+%7C+Building+%7C+Debugging+%F0%9F%9A%80;Building+my+Embedded+Journey+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header">
-</p>
-
-<h1 align="center">🎯 Aspiring Embedded Systems Engineer</h1>
-
-<p align="center">
-  🚀 ECE Student &nbsp;•&nbsp; 💻 C &nbsp;•&nbsp; 🔧 Embedded Systems &nbsp;•&nbsp; 🌏 Japan
-</p>
-
-<p align="center">
-  <i>Learning today. Building tomorrow.</i>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Praveen Kumar**, an ECE student working toward becoming a
-**professional Embedded Systems Engineer**.
-
-I'm currently building my fundamentals step-by-step, starting from
-**C programming** and moving toward microcontrollers, ARM architecture,
-RTOS and real-world embedded systems.
-
-My long-term goal is to build a career as an **Embedded Engineer in Japan 🇯🇵**.
-
-### 🧭 My Journey
-
-**ECE Student**  
-↓  
-**C Programming**  
-↓  
-**Embedded C**  
-↓  
-**Basic Electronics**  
-↓  
-**Microcontrollers**  
-↓  
-**ARM Cortex-M**  
-↓  
-**STM32**  
-↓  
-**Embedded Projects**  
-↓  
-**RTOS**  
-↓  
-**Professional Embedded Engineer**  
-↓  
-🇯🇵 **Japan**
+C • Embedded C • HTML • CSS
+
+🔧 Embedded & Hardware
+
+Arduino • ESP8266 • Microcontrollers • Basic Electronics
+
+🧰 Development Tools
+
+Git • GitHub • VS Code
+
+🧠 My Embedded Learning Path
+
+                         ECE
+                          │
+                          ▼
+                 ┌────────────────┐
+                 │ C Programming  │
+                 └───────┬────────┘
+                         │
+                         ▼
+                 ┌────────────────┐
+                 │  Embedded C    │
+                 └───────┬────────┘
+                         │
+                         ▼
+                 ┌────────────────┐
+                 │   Electronics  │
+                 └───────┬────────┘
+                         │
+                         ▼
+                 ┌─────────────────┐
+                 │ Microcontrollers│
+                 └───────┬─────────┘
+                         │
+                         ▼
+                 ┌────────────────┐
+                 │  ARM Cortex-M  │
+                 └───────┬────────┘
+                         │
+                         ▼
+                 ┌────────────────┐
+                 │     STM32      │
+                 └───────┬────────┘
+                         │
+                         ▼
+                 ┌────────────────┐
+                 │ Communication  │
+                 │ UART • SPI • I²C│
+                 │      • CAN     │
+                 └───────┬────────┘
+                         │
+                         ▼
+                 ┌────────────────┐
+                 │ RTOS & Debugging│
+                 └───────┬────────┘
+                         │
+                         ▼
+                 ┌────────────────┐
+                 │ Real Projects  │
+                 └───────┬────────┘
+                         │
+                         ▼
+                       🇯🇵
+              EMBEDDED ENGINEER
+
+📚 C Programming Journey
+
+I'm currently building my C fundamentals step by step.
+
+Current Topics
+
+Variables
+
+Data Types
+
+Operators
 
----
+Input / Output
 
-## 🧠 Skills
+Conditions
 
-### 💻 Programming
+Loops
 
-<p>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Embedded_C-111111?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+Functions
 
-### 🔧 Embedded & Hardware
+Arrays
 
-<p>
-  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP8266-111111?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266">
-  <img src="https://img.shields.io/badge/Microcontrollers-000000?style=for-the-badge" alt="Microcontrollers">
-  <img src="https://img.shields.io/badge/Basic_Electronics-111111?style=for-the-badge" alt="Basic Electronics">
-</p>
+Strings
 
-### 🧰 Tools
+Pointers
 
-<p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
+Structures
 
----
+Memory
 
-## 📚 Currently Learning
+Problem Solving
 
-- 💻 C Programming
-- 🔧 Embedded C
-- ⚡ Electronics Fundamentals
-- 🔌 Microcontrollers
-- 🧩 Arduino
-- 📡 ESP8266
-- 🛠️ Git & GitHub
+Daily Workflow
 
-### C Fundamentals
+        Learn
+          ↓
+        Code
+          ↓
+       Compile
+          ↓
+        Test
+          ↓
+        Debug
+          ↓
+      Understand
+          ↓
+       Commit
+          ↓
+        Push
+          ↓
+       Repeat 🔁
 
-- Variables
-- Data Types
-- Operators
-- Conditions
-- Loops
-- Functions
-- Arrays
-- Strings
-- Pointers
-- Structures
-- Memory
+🚀 Projects
 
----
+My project section will grow as I build and publish my work.
 
-## 🚀 Embedded Systems Roadmap
+🌱 Environmental Monitor
 
-| Stage | Technology / Concept |
-|---|---|
-| 01 | 💻 C Programming |
-| 02 | 🔧 Embedded C |
-| 03 | ⚡ Electronics |
-| 04 | 🔌 Microcontrollers |
-| 05 | 🧠 ARM Cortex-M |
-| 06 | 🔩 STM32 |
-| 07 | 📡 Communication Protocols |
-| 08 | ⚙️ Interrupts & Timers |
-| 09 | 🐛 Debugging |
-| 10 | 🧵 RTOS |
-| 11 | 🚀 Real Embedded Projects |
-| 12 | 🇯🇵 Professional Embedded Engineering |
+Planned focus:
 
----
+Environmental sensing • Embedded systems • IoT
 
-## 🔨 Projects
+🏠 Home Automation Hub
 
-### 🌱 Environmental Monitor
+Planned focus:
 
-An embedded/IoT project focused on monitoring environmental conditions
-and collecting useful sensor information.
+ESP8266 • IoT • Automation • Hardware control
 
-**Focus:** `Sensors` • `Embedded Systems` • `IoT`
+🤖 RTOS Sentry Robot
 
----
+Planned focus:
 
-### 🏠 Home Automation Hub
+RTOS • Robotics • Embedded C • Real-time control
 
-A smart-home oriented project exploring microcontroller-based control,
-automation and connected devices.
+🚧 Project repositories and live demos will be added here as they are published.
 
-**Focus:** `ESP8266` • `IoT` • `Automation`
+🔬 What I Want to Learn Next
 
----
+C
+│
+├── Embedded C
+├── Pointers & Memory
+├── Data Structures
+├── Electronics
+├── Digital Electronics
+├── Microcontrollers
+├── GPIO
+├── Timers
+├── Interrupts
+├── ADC
+├── PWM
+├── UART
+├── SPI
+├── I²C
+├── CAN
+├── ARM Cortex-M
+├── STM32
+├── Debugging
+├── RTOS
+└── Real Embedded Projects
 
-### 🤖 RTOS Sentry Robot
+🎯 2026 Goals
 
-A robotics project focused on real-time embedded control,
-task management and autonomous behavior.
+Master C fundamentals
 
-**Focus:** `RTOS` • `Robotics` • `Embedded C`
+Become comfortable with pointers and memory
 
----
+Learn Embedded C
 
-## 📂 Embedded Learning Journey
+Strengthen electronics fundamentals
 
-I'm documenting my learning process instead of only showing finished
-projects.
+Learn microcontrollers
 
-My repository contains my ongoing practice in:
+Learn GPIO
 
-- 💻 C Programming
-- 🧠 Problem Solving
-- 🔧 Embedded C
-- ⚡ Electronics
-- 🔌 Microcontrollers
-- 🧩 Arduino
-- 📡 ESP8266
-- 🛠️ Git & GitHub
-- 🚀 Embedded Projects
+Learn ADC
 
-> Every program is one more step toward becoming an Embedded Engineer.
+Learn PWM
 
----
+Learn timers
 
-## 📊 GitHub Statistics
+Understand interrupts
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumart139&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumart139&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages">
-</p>
+Learn UART
 
----
+Learn SPI
 
-## 🔥 Contribution Streak
+Learn I²C
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=praveenkumart139&theme=transparent&hide_border=true" alt="GitHub Streak">
-</p>
+Learn CAN
 
----
+Learn ARM Cortex-M
 
-## 🎯 2026 Goals
+Start STM32 development
 
-- [ ] Master C Programming fundamentals
-- [ ] Learn Embedded C properly
-- [ ] Strengthen Electronics fundamentals
-- [ ] Learn Microcontrollers
-- [ ] Learn ARM Cortex-M
-- [ ] Start STM32 development
-- [ ] Learn GPIO
-- [ ] Learn ADC
-- [ ] Learn PWM
-- [ ] Learn Timers
-- [ ] Understand Interrupts
-- [ ] Learn UART
-- [ ] Learn SPI
-- [ ] Learn I²C
-- [ ] Learn CAN
-- [ ] Learn Debugging
-- [ ] Build real Embedded Projects
-- [ ] Learn RTOS fundamentals
-- [ ] Build a strong Embedded Portfolio
-- [ ] Prepare for Embedded Internships
-- [ ] Continue toward an Embedded Engineering career in Japan 🇯🇵
+Learn debugging
 
----
+Build real embedded projects
 
-## 🧭 My Philosophy
+Learn RTOS
 
-**Don't just learn code.**  
-Understand the hardware.
+Build a strong embedded portfolio
 
-**Don't just build projects.**  
-Understand why they work.
+Prepare for embedded internships
 
-**Don't rush the roadmap.**  
-Master the fundamentals.
+Continue toward an Embedded Engineering career in Japan 🇯🇵
 
-### Small progress every day
+🤖 Why Embedded Systems?
 
-**Learn → Build → Test → Debug → Understand → Improve → Repeat 🔁**
+Software
+   +
+Hardware
+   +
+Electronics
+   +
+Real-Time Systems
+   +
+Problem Solving
+   =
+Embedded Systems
 
-> **One day. One concept. One improvement.**
+What attracts me to embedded systems is the connection between software and physical hardware.
 
----
+Writing code that can control something in the real world is what motivates me to keep learning.
 
-## 🌏 Long-Term Vision
+🧪 Learn • Build • Debug
 
-<h3 align="center">🇯🇵 Become a Professional Embedded Systems Engineer</h3>
+💻 CODE
+   ↓
+🔧 BUILD
+   ↓
+🧪 TEST
+   ↓
+🐛 DEBUG
+   ↓
+🧠 UNDERSTAND
+   ↓
+🚀 IMPROVE
 
-I'm building this journey one concept, one program,
-and one project at a time.
+🌏 Long-Term Vision
 
-<p align="center">
-  <b>KEEP LEARNING → KEEP BUILDING → KEEP DEBUGGING → KEEP IMPROVING</b>
-</p>
+🇯🇵 Embedded Engineering in Japan
 
----
+My long-term goal is to develop the technical foundation, projects and professional experience required to build a career in Embedded Systems Engineering in Japan.
 
-## 💻 Daily Practice
+The journey starts with the fundamentals.
 
-My daily workflow:
+C today → Embedded Systems tomorrow.
 
-**Write Code**  
-↓  
-**Test**  
-↓  
-**Debug**  
-↓  
-**Understand**  
-↓  
-**Commit**  
-↓  
-**Push to GitHub**  
-↓  
-**Repeat 🔁**
+📈 My Progress
 
----
+2026
+│
+├── C Programming              🟡 Learning
+├── Embedded C                 ⚪ Next
+├── Electronics                🟡 Learning
+├── Microcontrollers           🟡 Exploring
+├── ARM Cortex-M               ⚪ Future
+├── STM32                      ⚪ Future
+├── Communication Protocols    ⚪ Future
+├── RTOS                       ⚪ Future
+└── Advanced Projects          ⚪ Future
 
-## 📈 My Journey
+🔥 Consistency
 
-| Year | Focus |
-|---|---|
-| 2026 | C • Embedded C • Electronics • Microcontrollers |
-| 2026+ | ARM Cortex-M • STM32 • Embedded Projects |
-| 2027+ | RTOS • Advanced Embedded Systems • Professional Experience |
-| 🇯🇵 Future | Embedded Systems Engineering Career |
+I believe becoming an engineer is not about learning everything quickly.
 
----
+It's about learning consistently.
 
-## 📫 Connect With Me
+Day 01  → Learn
+Day 02  → Practice
+Day 03  → Debug
+Day 04  → Understand
+Day 05  → Build
+Day 06  → Improve
+Day 07  → Repeat
 
-<p align="center">
-  <a href="https://github.com/praveenkumart139">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+             🔁
 
----
+Small progress every day becomes a strong engineering foundation.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
-</p>
+📊 GitHub
 
-<p align="center">
-  <b>🚀 Building my Embedded Journey — one line of code at a time.</b>
-</p>
+💻 C Practice
+🔧 Embedded Learning
+🚀 Projects
+📚 Continuous Learning
 
-<p align="center">
-  <i>Learn • Build • Debug • Improve</i>
-</p>
+I'm using GitHub to document my learning journey, practice code and eventually showcase my embedded projects.
+
+🔗 Connect With Me
+
+💼 LinkedIn
+
+Coming soon
+
+📧 Email
+
+Coming soon
+
+🌐 Portfolio
+
+Coming soon
+
+📄 Resume
+
+Coming soon
+
+🧭 My Engineering Philosophy
+
+Understand the fundamentals.
+
+Build instead of only watching.
+
+Debug instead of giving up.
+
+Document the journey.
+
+Improve every day.
+
+🚀 Learn • Build • Debug • Improve
+
+Building my Embedded Journey — one line of code at a time.
+
+🇮🇳 → ⚡ → 💻 → 🔧 → 🤖 → 🇯🇵
