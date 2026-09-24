@@ -82,14 +82,14 @@ I'm **Praveen Kumar**, an Electronics & Communication Engineering (ECE) student 
 ## 🗺️ Learning Roadmap
 
 ```mermaid
-flowchart LR
-    A[C<br/>Programming] --> B[Embedded C]
-    B --> C[Electronics<br/>Fundamentals]
+flowchart TD
+    A[C Programming] --> B[Embedded C]
+    B --> C[Electronics Fundamentals]
     C --> D[Microcontrollers<br/>ESP8266 / Arduino]
     D --> E[STM32]
     E --> F[ARM Cortex-M]
-    F --> G[🎯 Embedded<br/>Engineer]
-    G --> H[🇯🇵 Career<br/>in Japan]
+    F --> G[🎯 Embedded Engineer]
+    G --> H[🇯🇵 Career in Japan]
 
     style A fill:#00599C,color:#fff
     style B fill:#2c5364,color:#fff
