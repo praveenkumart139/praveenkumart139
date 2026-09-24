@@ -1,9 +1,8 @@
 <!-- ============================================================
-  HOW TO USE
-  1. Create a public repo named EXACTLY your GitHub username
-  2. Add this file as README.md
-  3. Search for "YOUR_USERNAME" and replace it (appears several times)
-  4. Search for "TODO" and fill in the gaps
+  REMINDER
+  - The repo must be named EXACTLY: praveenkumart139
+  - Search for "TODO" and fill in the gaps
+  - Replace YOUR_LINKEDIN and YOUR_EMAIL in the Connect section
 ============================================================ -->
 
 <div align="center">
@@ -16,9 +15,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00c2a8&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=00c2a8)
-![Repos](https://img.shields.io/badge/Focus-Embedded%20Systems-2c5364?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=praveenkumart139&label=Profile%20views&color=00c2a8&style=flat-square)
+![Followers](https://img.shields.io/github/followers/praveenkumart139?label=Followers&style=flat-square&color=00c2a8)
+![Focus](https://img.shields.io/badge/Focus-Embedded%20Systems-2c5364?style=flat-square)
 ![Goal](https://img.shields.io/badge/Goal-Embedded%20Engineer%20in%20Japan-bc002d?style=flat-square)
 
 </div>
@@ -115,7 +114,7 @@ flowchart TD
 
 ## 🚀 Featured Projects
 
-### 🌡️ [environmental-monitor](https://github.com/YOUR_USERNAME/environmental-monitor)
+### 🌡️ [environmental-monitor](https://github.com/praveenkumart139/environmental-monitor)
 > An ESP8266-based environment monitoring node with a live web dashboard.
 
 - **Tech:** ESP8266 · C/Embedded C · HTML/CSS
@@ -128,7 +127,7 @@ flowchart TD
 
 ---
 
-### 🏠 [home-automation-hub](https://github.com/YOUR_USERNAME/home-automation-hub)
+### 🏠 [home-automation-hub](https://github.com/praveenkumart139/home-automation-hub)
 > A central hub to control home devices from a web interface.
 
 - **Tech:** ESP8266 · C/Embedded C · HTML/CSS
@@ -139,7 +138,7 @@ flowchart TD
 
 ---
 
-### 🤖 [rtos-sentry-robot](https://github.com/YOUR_USERNAME/rtos-sentry-robot)
+### 🤖 [rtos-sentry-robot](https://github.com/praveenkumart139/rtos-sentry-robot)
 > A sentry robot exploring real-time task scheduling concepts.
 
 - **Tech:** C/Embedded C · RTOS concepts · HTML/CSS
@@ -158,7 +157,7 @@ flowchart TD
 |---|---|---|
 | TODO | Started the structured C → Embedded C study plan | Focus: pointers, memory, bit manipulation |
 | TODO | Finished 3 ESP8266 projects | Added web dashboards for each |
-| TODO | Set up GitHub profile | You're looking at it 🙂 |
+| 24 Sep 2026 | Set up GitHub profile | You're looking at it 🙂 |
 
 ### 🎯 Current Goals
 
@@ -176,12 +175,13 @@ flowchart TD
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/praveenkumart139?style=for-the-badge&color=00c2a8&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/praveenkumart139?style=for-the-badge&color=f2a900&logo=github" alt="Stars" />
+<img src="https://img.shields.io/github/languages/top/praveenkumart139/environmental-monitor?style=for-the-badge&color=00599C" alt="Top language" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumart139&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -200,8 +200,8 @@ Japan is a world leader in embedded systems, from automotive electronics and rob
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenkumar139@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveenkumar139)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveenkumart139)
 
 <br/>
 
