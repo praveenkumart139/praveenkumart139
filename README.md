@@ -80,25 +80,39 @@ I'm **Praveen Kumar**, an Electronics & Communication Engineering (ECE) student 
 
 ## 🗺️ Learning Roadmap
 
-```mermaid
-flowchart TD
-    A[C Programming] --> B[Embedded C]
-    B --> C[Electronics Fundamentals]
-    C --> D[Microcontrollers<br/>ESP8266 / Arduino]
-    D --> E[STM32]
-    E --> F[ARM Cortex-M]
-    F --> G[🎯 Embedded Engineer]
-    G --> H[🇯🇵 Career in Japan]
+<div align="center">
 
-    style A fill:#00599C,color:#fff
-    style B fill:#2c5364,color:#fff
-    style C fill:#F2A900,color:#000
-    style D fill:#00979D,color:#fff
-    style E fill:#5c6bc0,color:#fff
-    style F fill:#7e57c2,color:#fff
-    style G fill:#00c2a8,color:#000
-    style H fill:#bc002d,color:#fff
-```
+![Step 1](https://img.shields.io/badge/1%20%C2%B7%20C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+⬇️
+
+![Step 2](https://img.shields.io/badge/2%20%C2%B7%20Embedded%20C-2c5364?style=for-the-badge&logo=c&logoColor=white)
+
+⬇️
+
+![Step 3](https://img.shields.io/badge/3%20%C2%B7%20Electronics%20Fundamentals-F2A900?style=for-the-badge&logoColor=white)
+
+⬇️
+
+![Step 4](https://img.shields.io/badge/4%20%C2%B7%20Microcontrollers%20(ESP8266%20%2F%20Arduino)-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+⬇️
+
+![Step 5](https://img.shields.io/badge/5%20%C2%B7%20STM32-5c6bc0?style=for-the-badge&logoColor=white)
+
+⬇️
+
+![Step 6](https://img.shields.io/badge/6%20%C2%B7%20ARM%20Cortex--M-7e57c2?style=for-the-badge&logoColor=white)
+
+⬇️
+
+![Step 7](https://img.shields.io/badge/7%20%C2%B7%20Embedded%20Engineer-00c2a8?style=for-the-badge&logoColor=black)
+
+⬇️
+
+![Step 8](https://img.shields.io/badge/8%20%C2%B7%20Career%20in%20Japan-bc002d?style=for-the-badge&logoColor=white)
+
+</div>
 
 | Stage | Status |
 |---|---|
@@ -199,9 +213,29 @@ Japan is a world leader in embedded systems, from automotive electronics and rob
 
 <div align="center">
 
+**Professional**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveenkumart139)
+[![Hackster.io](https://img.shields.io/badge/Hackster.io-2E9FE6?style=for-the-badge&logo=hackster&logoColor=white)](https://www.hackster.io/YOUR_HACKSTER)
+
+**Social**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE)
+
+**Chat**
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+
+<br/>
+
+### 💬 Ask me about
+
+`C programming` · `Embedded C` · `ESP8266` · `Arduino` · `Learning embedded from scratch` · `Preparing for a career in Japan`
 
 <br/>
 
