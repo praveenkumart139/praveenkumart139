@@ -1,8 +1,10 @@
 <!-- ============================================================
   REMINDER
   - The repo must be named EXACTLY: praveenkumart139
+  - Upload assets/roadmap.svg to the same repo (folder: assets)
   - Search for "TODO" and fill in the gaps
-  - Replace YOUR_LINKEDIN and YOUR_EMAIL in the Connect section
+  - Replace every YOUR_... placeholder in the Connect section,
+    and delete the badge lines for accounts you don't use
 ============================================================ -->
 
 <div align="center">
@@ -82,47 +84,11 @@ I'm **Praveen Kumar**, an Electronics & Communication Engineering (ECE) student 
 
 <div align="center">
 
-![Step 1](https://img.shields.io/badge/1%20%C2%B7%20C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img src="assets/roadmap.svg" alt="Embedded systems learning roadmap: C, Embedded C, Electronics, Microcontrollers, STM32, ARM Cortex-M, Embedded Engineer, Career in Japan" width="560" />
 
-⬇️
-
-![Step 2](https://img.shields.io/badge/2%20%C2%B7%20Embedded%20C-2c5364?style=for-the-badge&logo=c&logoColor=white)
-
-⬇️
-
-![Step 3](https://img.shields.io/badge/3%20%C2%B7%20Electronics%20Fundamentals-F2A900?style=for-the-badge&logoColor=white)
-
-⬇️
-
-![Step 4](https://img.shields.io/badge/4%20%C2%B7%20Microcontrollers%20(ESP8266%20%2F%20Arduino)-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-⬇️
-
-![Step 5](https://img.shields.io/badge/5%20%C2%B7%20STM32-5c6bc0?style=for-the-badge&logoColor=white)
-
-⬇️
-
-![Step 6](https://img.shields.io/badge/6%20%C2%B7%20ARM%20Cortex--M-7e57c2?style=for-the-badge&logoColor=white)
-
-⬇️
-
-![Step 7](https://img.shields.io/badge/7%20%C2%B7%20Embedded%20Engineer-00c2a8?style=for-the-badge&logoColor=black)
-
-⬇️
-
-![Step 8](https://img.shields.io/badge/8%20%C2%B7%20Career%20in%20Japan-bc002d?style=for-the-badge&logoColor=white)
+<sub>Status labels update as I progress. Last updated: Sep 2026</sub>
 
 </div>
-
-| Stage | Status |
-|---|---|
-| C fundamentals | 🟡 In progress |
-| Embedded C | 🟡 In progress |
-| Electronics basics | 🟡 In progress |
-| Microcontrollers (ESP8266, Arduino) | 🟢 Hands-on |
-| STM32 | ⚪ Planned |
-| ARM Cortex-M | ⚪ Planned |
-| Job-ready portfolio + interview prep | ⚪ Planned |
 
 ---
 
